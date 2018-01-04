@@ -23,6 +23,8 @@
 
     <modules>
         <module>creational-pattern</module>
+        <module>structural-pattern</module>
+        <module>behavioral-pattern</module>
     </modules>
 
     <dependencies>
