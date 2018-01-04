@@ -6,15 +6,17 @@
 	<groupId>com.learning.pattern.creational</groupId>
 	<artifactId>creational-pattern</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+		<dependency>
+			<groupId>com.learning.design.pattern</groupId>
+			<artifactId>learning-design-pattern</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 	<packaging>jar</packaging>
 
 	<name>creational-pattern</name>
 	<description>creational Pattern using spring boot</description>
 
-	<parent>
-		<groupId>com.learning.design.pattern</groupId>
-		<artifactId>learning-design-pattern</artifactId>
-		<version>1.0-SNAPSHOT</version>
-	</parent>
 
 </project>
